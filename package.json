@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "npx eslint .",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "eslint": "^8.15.0",
+    "eslint-plugin-nuxt": "^3.2.0",
+    "nuxt": "3.0.0-rc.3"
+  }
+}
