@@ -1,3 +1,6 @@
 <template>
-  <div></div>
+  <div class="h-[100%]">
+    <Hero />
+    <Tabs />
+  </div>
 </template>

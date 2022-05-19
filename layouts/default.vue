@@ -1,14 +1,15 @@
 <template>
-  <div class="flex flex-col justify-between h-[100vh]">
-    <div class="header">
+  <div class="h-[100vh] relative">
+    <div class="header fixed top-0 bg-light">
       <div class="nav-gradient h-[5px] w-[100vw]"></div>
       <nav
-        class="rounded-b-lg shadow-[0_2px_15px_rgba(0,0,0,0.3)] flex w-[100vw] h-[67px] justify-end items-center p-[17px]"
+        class="rounded-b-lg shadow-[0_4px_15px_rgba(0,0,0,0.3)] flex w-[100vw] h-[67px] justify-end items-center p-[17px]"
       >
         <a href="#" class="text-textLight hover:text-bgPrimary">Login</a>
       </nav>
     </div>
-    <div class="footer">
+    <slot />
+    <div class="footer bottom-0 fixed bg-light">
       <nav
         class="rounded-t-lg shadow-[0_-2px_15px_rgba(0,0,0,0.3)] flex w-[100vw] h-[128px] justify-center items-center"
       >
