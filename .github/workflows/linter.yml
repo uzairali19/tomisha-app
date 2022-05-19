@@ -17,6 +17,6 @@ jobs:
       - name: Setup ESLint
         run: |
           yarn add -D eslint eslint-plugin-nuxt
-          -f .eslintrc.json
+          [ -f .eslintrc.json ]
       - name: ESLint Report
         run: npx eslint .
