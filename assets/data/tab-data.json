@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Arbeitnehmer",
+    "content": {
+      "header": "Drei einfache Schritte zu deinem neuen Job",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erstellen dein Lebenslauf",
+        "3": "Mit nur einem Klick bewerben"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Arbeitnehmer",
+    "content": {
+      "header": "Drei einfache Schritte zu deinem neuen Job",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erstellen dein Lebenslauf",
+        "3": "Mit nur einem Klick bewerben"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Arbeitnehmer",
+    "content": {
+      "header": "Drei einfache Schritte zu deinem neuen Job",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erstellen dein Lebenslauf",
+        "3": "Mit nur einem Klick bewerben"
+      }
+    }
+  }
+]
