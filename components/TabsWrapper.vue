@@ -9,7 +9,7 @@ provide("selectedTitle", selectedTitle);
 <template>
   <div class="mt-[27px] relative mb-[200px]">
     <ul
-      class="tabs__header flex absolute top-0 left-[20px]"
+      class="tabs__header flex absolute overflow-hidden top-0 left-[20px]"
       :class="{
         active: selectedTitle === 'Arbeitgeber',
         active2: selectedTitle === 'Temporärbüro',
