@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Arbeitnehmer",
+    "content": {
+      "header": "Drei einfache Schritte zu deinem neuen Job",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erstellen dein Lebenslauf",
+        "3": "Mit nur einem Klick bewerben",
+        "img1": "@/assets/images/tab_1_img_1.svg",
+        "img2": "@/assets/images/tab_1_img_2.svg",
+        "img3": "@/assets/images/tab_1_img_3.svg"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Arbeitgeber",
+    "content": {
+      "header": "Drei einfache Schritte zu deinem neuen Mitarbeiter",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erstellen ein Jobinserat",
+        "3": "Wähle deinen neuen Mitarbeiter aus",
+        "img1": "@/assets/images/tab_1_img_1.svg",
+        "img2": "@/assets/images/tab_2_img_2.svg",
+        "img3": "@/assets/images/tab_2_img_3.svg"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Temporärbüro",
+    "content": {
+      "header": "Drei einfache Schritte zur Vermittlung neuer Mitarbeiter",
+      "sub-heading": {
+        "1": "Erstellen dein Lebenslauf",
+        "2": "Erhalte Vermittlungs- angebot von Arbeitgeber",
+        "3": "Vermittlung nach Provision oder Stundenlohn",
+        "img1": "@/assets/images/tab_1_img_1.svg",
+        "img2": "@/assets/images/tab_3_img_2.svg",
+        "img3": "@/assets/images/tab_3_img_3.svg"
+      }
+    }
+  }
+]
